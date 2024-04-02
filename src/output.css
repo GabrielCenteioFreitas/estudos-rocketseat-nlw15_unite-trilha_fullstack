@@ -586,6 +586,10 @@ video {
   max-width: 43rem;
 }
 
+.shrink-0 {
+  flex-shrink: 0;
+}
+
 .border-separate {
   border-collapse: separate;
 }
