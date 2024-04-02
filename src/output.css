@@ -590,6 +590,10 @@ video {
   width: 45%;
 }
 
+.w-screen {
+  width: 100vw;
+}
+
 .max-w-\[43rem\] {
   max-width: 43rem;
 }
